@@ -1,2 +1,8 @@
-# Covoiturage-PHP
-Le Chef du departement informatique, de l'IUT du Limousin, vous charge de realiser une application permettant de faciliter le covoiturage des etudiants et du personnel.
+Structure de base pour l'application covoiturage de l'IUT du Limousin en PHP <br />
+<br />
+
+Le fichier config.inc.php contient les paramètres pour la base MySQL <br /> </br>
+Vous devez compléter ce travail pour obtenir les écrans demandés.  <br />
+Je souhaite un code bien documenté et clair<br />
+Merci de respecter la date limte de remise du travail !!!! <br /> <br />
+<b> ⊂(◉‿◉)つ <b> <br />
